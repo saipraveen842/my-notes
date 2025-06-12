@@ -7,8 +7,9 @@
     font-family: "Segoe UI", sans-serif;
 }
 
-body {
-    background: linear-gradient(to right top, #1a1a1a, #2e2e2e);
+ body {
+  /*  background: linear-gradient(to right top, #1a1a1a, #2e2e2e); */
+    background-image: linear-gradient(to right top,#1a1a1a, #2e2e2e );
     color: #f0f0f0;
     padding: 32px;
     min-height: 100vh;
